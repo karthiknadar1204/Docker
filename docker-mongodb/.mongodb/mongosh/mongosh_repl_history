@@ -1,0 +1,9 @@
+db.products.find()
+use products
+db.products.find()
+show dbs
+exit
+db.products.find()
+db.products.insertOne({name:'macbook'})
+use products
+show dbs
